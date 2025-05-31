@@ -6,7 +6,7 @@ import mcDataLoader from 'minecraft-data';
 const bot = createBot({
   host: 'KingdomOfYggdrasil.aternos.me',
   port: 52364,
-  username: 'AFK_Bot123', // change if needed
+  username: 'ZhyBot', // change if needed
   auth: 'offline'
 });
 
